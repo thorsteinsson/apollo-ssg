@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-and-graphcms-static-site-generation",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@types/node": "17.0.32",
+    "@types/react": "18.0.9",
+    "graphql": "16.5.0",
+    "graphql-request": "4.2.0",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "typescript": "4.6.4"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
